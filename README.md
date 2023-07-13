@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">full stack developer</h3>
-<img align="right" alt=""coding src="[https://komarev.com/ghpvc/?username=aakash-63&label=Profile%20views&color=0e75b6&style=flat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZicXpuNmRiOGJwN2RybW53dW43b2l5OXJzYzF2ZXl2N3phZGJ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" alt="aakash-63" />
+<img align="right" alt=""coding src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZicXpuNmRiOGJwN2RybW53dW43b2l5OXJzYzF2ZXl2N3phZGJ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" alt="aakash-63" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-63&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-63" /> </p>
 
